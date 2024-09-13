@@ -1,1 +1,3 @@
-Fayed HW Test
+renv::install("usethis")
+usethis::create_github_token()
+gitcreds::gitcreds_set()
